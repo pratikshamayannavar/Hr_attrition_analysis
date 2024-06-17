@@ -6,3 +6,9 @@ The HR Attrition Report is a comprehensive analysis created using Power BI Deskt
 - **Turnover Analysis:** Provides insights into employee attrition by department, job roles, business travel, years in the current role, job level, overtime, performance ratings, and monthly income.
 - **Employee Wellness:** Reports on employee environment satisfaction, relationship satisfaction, work-life balance, job involvement, and job satisfaction.
 - **Effective Grouping:** Grouping plays a crucial role in organizing and presenting the data effectively, allowing for clearer insights and better decision-making.
+
+### Technologies Used
+
+- **Tools:** Power BI
+- **Data Processing:** Power Query for data cleaning and transformation
+- **Visualizations:** Power BI for creating interactive dashboards
